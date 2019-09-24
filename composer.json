@@ -7,5 +7,7 @@
         }
     ],
     "license":"MIT",
-    "require": {}
+    "require": {
+        "ls/test": "^1.0"
+    }
 }
