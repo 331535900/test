@@ -6,5 +6,6 @@
             "email": "331535900@qq.com"
         }
     ],
+    "license":"MIT",
     "require": {}
 }
